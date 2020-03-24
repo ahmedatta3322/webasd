@@ -1,0 +1,26 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#search {
+    margin-top: 25%;
+    
+}
+#btn {
+    margin-left: 15%;
+    
+}
+
+.section {
+    padding:0%;
+
+}
+
+#footer {
+    background-color: white;
+    position: fixed;bottom: 0;
+    width: 100%;
+    padding: 0;
+    
+}
